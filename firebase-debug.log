@@ -1,0 +1,28 @@
+[debug] [2017-11-05T08:03:56.187Z] ----------------------------------------------------------------------
+[debug] [2017-11-05T08:03:56.191Z] Command:       /usr/bin/nodejs /usr/bin/firebase serve
+[debug] [2017-11-05T08:03:56.192Z] CLI Version:   3.14.0
+[debug] [2017-11-05T08:03:56.192Z] Platform:      linux
+[debug] [2017-11-05T08:03:56.192Z] Node Version:  v7.10.1
+[debug] [2017-11-05T08:03:56.192Z] Time:          Sun Nov 05 2017 10:03:56 GMT+0200 (EET)
+[debug] [2017-11-05T08:03:56.192Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-11-05T08:03:56.210Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-11-05T08:03:56.211Z] > authorizing via signed-in user
+[debug] [2017-11-05T08:03:56.214Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/web-test-78a86  
+ Sun Nov 05 2017 10:03:56 GMT+0200 (EET)
+[debug] [2017-11-05T08:03:57.178Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-05T08:03:57.182Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/web-test-78a86/tokens  
+ Sun Nov 05 2017 10:03:57 GMT+0200 (EET)
+[debug] [2017-11-05T08:03:58.024Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/media/ahmad/C2169F8B169F7EDB/Dev/firebase-learning'...
+[info] 
+[debug] [2017-11-05T08:03:58.032Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/web-test-78a86  
+ Sun Nov 05 2017 10:03:58 GMT+0200 (EET)
+[debug] [2017-11-05T08:03:59.315Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-05T08:03:59.316Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/495392744134/clients/_:getWebAppConfig  
+ Sun Nov 05 2017 10:03:59 GMT+0200 (EET)
+[debug] [2017-11-05T08:04:00.244Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: public
+[info] ✔  hosting: Local server: http://localhost:5000
+
